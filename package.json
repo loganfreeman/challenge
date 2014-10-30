@@ -1,0 +1,25 @@
+{
+  "name": "scheng",
+  "version": "0.0.0",
+  "description": "",
+  "main": "crack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loganfreeman/challenge.git"
+  },
+  "author": "shanhong cheng",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/loganfreeman/challenge/issues"
+  },
+  "dependencies": {
+    "async": "~0.9.0",
+    "underscore": "~1.7.0",
+    "lodash": "~2.4.1",
+    "lazy.js": "~0.3.2",
+    "lazy": "~1.0.11"
+  }
+}
